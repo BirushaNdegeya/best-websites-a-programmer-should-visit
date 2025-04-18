@@ -1,0 +1,25 @@
+{
+  "name": "best-websites-a-programmer-should-visit",
+  "version": "1.0.0",
+  "description": "\"🔗 Some useful websites for programmers.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiatechnology/best-websites-a-programmer-should-visit.git"
+  },
+  "keywords": [
+    "books",
+    "links",
+    "programmer",
+    "sites"
+  ],
+  "author": "SOFIA Tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sofiatechnology/best-websites-a-programmer-should-visit/issues"
+  },
+  "homepage": "https://github.com/sofiatechnology/best-websites-a-programmer-should-visit#readme"
+}
