@@ -895,9 +895,3 @@ Whether you're looking for documentation, tutorials, coding challenges, or commu
 
 ### Special Thanks
 - Please consider a GitHub star if you find this useful and/or consider contributing.
-
-### Contributors
-
-<a href="https://github.com/sofiatechnology/best-websites-a-programmer-should-visit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sofiatechnology/best-websites-a-programmer-should-visit" />
-</a>
